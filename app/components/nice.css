@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0 2rem;
+  }
+  
+  .ring-1 {
+    margin: 1rem;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .ring-1:nth-child(1),
+    .ring-1:nth-child(2),
+    .ring-1:nth-child(3) {
+      margin-right: 2rem;
+    }
+  
+    .ring-1:nth-child(3n+1) {
+      margin-left: 0;
+    }
+  
+    .ring-1:nth-child(3n) {
+      margin-right: 0;
+    }
+  }
+  
