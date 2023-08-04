@@ -9,7 +9,7 @@ function Projects() {
         
      
       <h1 className='text-lg'>
-      I regret to share that I haven't implemented extensive website features to showcase my projects. However, I'm pleased to let you know that you can explore them on my        <Link className='text-pink-500 underline' href='https://github.com/bilegt6969'>
+      I regret to share that I haven&apos;t implemented extensive website features to showcase my projects. However, I&apos;m pleased to let you know that you can explore them on my        <Link className='text-pink-500 underline' href='https://github.com/bilegt6969'>
           GitHub
         </Link>{' '}
         profile.

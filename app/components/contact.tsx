@@ -16,7 +16,7 @@ function Contact() {
           </Link>
         </p>
         <p className='font-normal'>
-          If you've got something real to discuss, hit me up via{' '}
+          If you&apos;ve got something real to discuss, hit me up via{' '}
           <Link
             className='underline text-pink-600'
             href={'mailto:bilegt6969@gmail.com'}
